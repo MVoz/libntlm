@@ -1,7 +1,10 @@
 FORK MSVC https://github.com/outvoider/libntlm-1.4-win
 
-Win32 libntlm-1.5.vcxproj
-x64 libntlm-1.5x64.vcxproj
+
+Win32 `libntlm-1.5.vcxproj`
+
+x64 `libntlm-1.5x64.vcxproj`
+
 
 new version 2018-08-24
 
